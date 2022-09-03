@@ -10,3 +10,4 @@ Ilove numbers
 Welcome
 Betty
 bye
+Bye bye my first directory
